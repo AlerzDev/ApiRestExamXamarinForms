@@ -1,0 +1,11 @@
+{
+  "name": "ApiRestExamXamarinForms",
+  "version": "1.0.0",
+  "description": "Api rest",
+  "main": "app.js",
+  "author": "Alejandro Lemus Rodríguez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
